@@ -5,5 +5,9 @@
         <page name='Untitled Page'/>
         <page name='SentenciasControl'/>
         <page name='Cuadrantes'/>
+        <page name='ArregloMaxMin'/>
+        <page name='StructEjemplo'/>
+        <page name='ClaseEjemplo'/>
+        <page name='CordenadasComputed'/>
     </pages>
 </playground>
